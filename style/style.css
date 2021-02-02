@@ -579,7 +579,7 @@ a.active-page {
 .modal-body {
   text-align: center;
   width: 448px;
-  height: 342px;
+  /* height: 342px; */
   margin: 40px 40px;
 }
 .data-form {
